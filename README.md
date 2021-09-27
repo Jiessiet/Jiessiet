@@ -1,23 +1,17 @@
 #### Hi, my name is Jiessie. I am currently a student at the University of Toronto, studying Computer and Computational Cognitive Science. 
 
-## Year One Courses
-### CSC108 - Introduction to Computer Programming
-> Programming in a language such as Python. Elementary data types, lists, maps. Program structure: control flow, functions, classes, objects, methods. Algorithms and problem solving. Searching, sorting, and complexity. Unit testing. No prior programming experience required.
+## Year Three and Higher Courses
+### CSC309 - Programming on the Web
+> An introduction to software development on the web. Concepts underlying the development of programs that operate on the web; survey of technological alternatives; greater depth on some technologies. Operational concepts of the internet and the web, static client content, dynamic client content, dynamically served content, n-tiered architectures, web development processes, and security on the web. Assignments involve increasingly more complex web-based programs.
 
-### PSY100 - Introduction to Psychology
-> A brief introductory survey of psychology as both a biological and social science. Topics will include physiological, learning, perceptual, motivational, cognitive, developmental, personality, abnormal, and social psychology.
+### CSC343 Introduction to Databases
+> Introduction to database management systems. The relational data model. Relational algebra. Querying and updating databases: the query language SQL. Application programming with SQL. Integrity constraints, normal forms, and database design. Elements of database system technology: query processing, transaction management.
 
-### MAT137 - Calculus
-> A conceptual approach for students with a serious interest in mathematics. Attention is given to computational aspects as well as theoretical foundations and problem solving techniques. Review of Trigonometry. Limits and continuity, mean value theorem, inverse function theorem, differentiation, integration, fundamental theorem of calculus, elementary transcendental functions, Taylor's theorem, sequence and series, power series. Applications.
+### JLP315 Language Acquisition
+> Infants’ abilities at birth, prelinguistic development, the first words, phonological, syntactic and semantic development. Social variables influencing language acquisition, bilingualism, models of development, language play.
 
-### MAT223 - Linear Algebra
-> Systems of linear equations, matrix algebra, real vector spaces, subspaces, span, linear dependence and independence, bases, rank, inner products, orthogonality, orthogonal complements, Gram-Schmidt, linear transformations, determinants, Cramer's rule, eigenvalues, eigenvectors, eigenspaces, diagonalization.
-
-### CSC148 - Introduction to Computer Science
-> Abstract data types and data structures for implementing them. Linked data structures. Encapsulation and information-hiding. Object-oriented programming. Specifications. Analyzing the efficiency of programs. Recursion.
-
-### CSC165 - Mathematical Expression and Reasoning for Computer Science
-> Introduction to abstraction and rigour. Informal introduction to logical notation and reasoning. Understanding, using and developing precise expressions of mathematical ideas, including definitions and theorems. Structuring proofs to improve presentation and comprehension. General problem-solving techniques. Running time analysis of iterative programs. Formal definition of Big-Oh. Diagonalization, the Halting Problem, and some reductions. Unified approaches to programming and theoretical problems.
+### PHL342 Minds & Machines
+> Topics include: philosophical foundations of artificial intelligence theory; the computational theory of the mind; functionalism vs. reductionism; the problems of meaning in the philosophy of mind.
 
 ## Year Two Courses
 ### COG250 - Cognitive Science
@@ -50,18 +44,24 @@
 ### PSY290 - Behavioural Neuroscience
 > Provides students with a solid background in the biological basis of behaviour. Animal and human research topics will include functional neuroanatomy and neural signalling. Further topics may include sensory and motor control, motivational systems, hormones, and emotions, among other topics.
 
-## Year Three and Higher Courses
-### CSC309 - Programming on the Web
-> An introduction to software development on the web. Concepts underlying the development of programs that operate on the web; survey of technological alternatives; greater depth on some technologies. Operational concepts of the internet and the web, static client content, dynamic client content, dynamically served content, n-tiered architectures, web development processes, and security on the web. Assignments involve increasingly more complex web-based programs.
+## Year One Courses
+### CSC108 - Introduction to Computer Programming
+> Programming in a language such as Python. Elementary data types, lists, maps. Program structure: control flow, functions, classes, objects, methods. Algorithms and problem solving. Searching, sorting, and complexity. Unit testing. No prior programming experience required.
 
-### CSC343 Introduction to Databases
-> Introduction to database management systems. The relational data model. Relational algebra. Querying and updating databases: the query language SQL. Application programming with SQL. Integrity constraints, normal forms, and database design. Elements of database system technology: query processing, transaction management.
+### PSY100 - Introduction to Psychology
+> A brief introductory survey of psychology as both a biological and social science. Topics will include physiological, learning, perceptual, motivational, cognitive, developmental, personality, abnormal, and social psychology.
 
-### JLP315 Language Acquisition
-> Infants’ abilities at birth, prelinguistic development, the first words, phonological, syntactic and semantic development. Social variables influencing language acquisition, bilingualism, models of development, language play.
+### MAT137 - Calculus
+> A conceptual approach for students with a serious interest in mathematics. Attention is given to computational aspects as well as theoretical foundations and problem solving techniques. Review of Trigonometry. Limits and continuity, mean value theorem, inverse function theorem, differentiation, integration, fundamental theorem of calculus, elementary transcendental functions, Taylor's theorem, sequence and series, power series. Applications.
 
-### PHL342 Minds & Machines
-> Topics include: philosophical foundations of artificial intelligence theory; the computational theory of the mind; functionalism vs. reductionism; the problems of meaning in the philosophy of mind.
+### MAT223 - Linear Algebra
+> Systems of linear equations, matrix algebra, real vector spaces, subspaces, span, linear dependence and independence, bases, rank, inner products, orthogonality, orthogonal complements, Gram-Schmidt, linear transformations, determinants, Cramer's rule, eigenvalues, eigenvectors, eigenspaces, diagonalization.
+
+### CSC148 - Introduction to Computer Science
+> Abstract data types and data structures for implementing them. Linked data structures. Encapsulation and information-hiding. Object-oriented programming. Specifications. Analyzing the efficiency of programs. Recursion.
+
+### CSC165 - Mathematical Expression and Reasoning for Computer Science
+> Introduction to abstraction and rigour. Informal introduction to logical notation and reasoning. Understanding, using and developing precise expressions of mathematical ideas, including definitions and theorems. Structuring proofs to improve presentation and comprehension. General problem-solving techniques. Running time analysis of iterative programs. Formal definition of Big-Oh. Diagonalization, the Halting Problem, and some reductions. Unified approaches to programming and theoretical problems.
 
 
 <!---
