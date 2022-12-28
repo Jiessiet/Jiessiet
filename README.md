@@ -1,7 +1,7 @@
 #### Hi, my name is Jiessie. I am currently a student at the University of Toronto, studying Computer and Computational Cognitive Science and Psychology. 
 
 ## Year Three and Higher Courses
-### CSC401 - Natural Language Computer
+### CSC401 - Natural Language Computing
 > Introduction to techniques involving natural language processing and speech in applications such as information retrieval, speech recognition and synthesis, machine translation, summarization, and dialogue. N-grams, corpus analysis, neural methods, and information theory. Python and other software.
 
 ### COG403 - Seminar in Cognitive Science
