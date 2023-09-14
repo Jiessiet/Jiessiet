@@ -19,6 +19,12 @@
 ### PHL342 Minds & Machines
 > Topics include: philosophical foundations of artificial intelligence theory; the computational theory of the mind; functionalism vs. reductionism; the problems of meaning in the philosophy of mind.
 
+### PSY343 Theory Psychotherapy
+> Examines various theories of how personality functioning may become impaired and corresponding psychotherapeutic interventions. Emphasis on empirical assessment of personality dysfunction and therapy effectiveness.
+
+### PSY372 Human Memory
+> Current theories and data on human memory: processes involved in encoding, storage, and retrieval.
+
 ## Year Two Courses
 ### COG250 - Cognitive Science
 > An introduction to the problems, theories and research strategies central to the interdisciplinary field focusing on the nature and organization of the human mind and other cognitive systems. Interrelations among the philosophical, psychological, linguistic and computer science aspects of the field are emphasized.
