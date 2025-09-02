@@ -1,4 +1,4 @@
-#### Hi, my name is Jiessie. I am currently a Master's student at the University of Toronto. My research is on improving LLMs to support complex software development tasks.
+#### Hi, my name is Jiessie. I am currently a Master's student at the University of Toronto. My research is on understanding and improving collaboration in software engineering by building human-centric tools.
 
 I also did my undergraduate program at UofT, in Computer and Cognitive Science.
 
