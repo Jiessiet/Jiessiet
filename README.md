@@ -24,7 +24,6 @@ Investigating how LLMs are being used and adapted in a hackathon environment. Ai
 ### CSC207 (Software Design)
 
 ## MSc Courses
-cGPA: 4.0/4.0
 ### CSC2526H HCI: Using LLMs & GPTs for Ubiquitous Computing
 ### CSC2615H Ethical Aspects of Artificial Intelligence AI Alignment
 ### CSC2130H Empirical Research Methods in Software Engineering 
