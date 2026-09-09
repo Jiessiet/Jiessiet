@@ -19,16 +19,18 @@ Investigating how LLMs are being used and adapted in a hackathon environment. Ai
 * Yun, T., Shuo, W., Li, X., Huijie, C., _Jiessie Tie_, Lin, Q., (2023) Spatio-temporal Network for Emotion Recognition in User-Generated Videos. IEEETransactions on Network Science and Engineering
 
 ## Teaching
+### ECE444 (Software Engineering)
+### CSC108 (Introduction to Computer Programming)
 ### CSC148 (Introduction to Python)
 ### CSC343 (Introduction to Databases)
 ### CSC207 (Software Design)
+
+## PhD Courses
+### CSC2537H Information Visualization
+### CSC2611H Computational Models of Semantic Change
 
 ## MSc Courses
 ### CSC2526H HCI: Using LLMs & GPTs for Ubiquitous Computing
 ### CSC2615H Ethical Aspects of Artificial Intelligence AI Alignment
 ### CSC2130H Empirical Research Methods in Software Engineering 
 ### CSC2541H Machine Learning Large Models
-
-## Doctor of Philosophy Courses
-### CSC2537H Information Visualization
-### CSC2611H Computational Models of Semantic Change
